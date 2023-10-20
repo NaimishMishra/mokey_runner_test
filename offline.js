@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1697398611,
+	"version": 1697823285,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -33,6 +33,10 @@
 		"images/ul-sheet0.png",
 		"images/ur-sheet0.png",
 		"images/u-sheet0.png",
+		"images/dungeoncrawlerobjectstransparentsheet-sheet0.png",
+		"media/idelghost1.ogg",
+		"media/dam.ogg",
+		"media/puzzel.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
