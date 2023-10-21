@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1697823285,
+	"version": 1697927868,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -34,6 +34,10 @@
 		"images/ur-sheet0.png",
 		"images/u-sheet0.png",
 		"images/dungeoncrawlerobjectstransparentsheet-sheet0.png",
+		"images/runner-sheet0.png",
+		"images/steintur-sheet0.png",
+		"images/sprite4-sheet0.png",
+		"images/sprite4-sheet1.png",
 		"media/idelghost1.ogg",
 		"media/dam.ogg",
 		"media/puzzel.ogg",
@@ -42,6 +46,7 @@
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
-		"loading-logo.png"
+		"loading-logo.png",
+		"vi.mp4"
 	]
 }
