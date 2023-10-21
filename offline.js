@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1697927868,
+	"version": 1697929675,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,12 +41,13 @@
 		"media/idelghost1.ogg",
 		"media/dam.ogg",
 		"media/puzzel.ogg",
+		"media/runner.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
 		"icon-128.png",
 		"icon-256.png",
 		"loading-logo.png",
-		"vi.mp4"
+		"v.mp4"
 	]
 }
