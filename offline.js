@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1697929675,
+	"version": 1698786872,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -38,6 +38,16 @@
 		"images/steintur-sheet0.png",
 		"images/sprite4-sheet0.png",
 		"images/sprite4-sheet1.png",
+		"images/krys-sheet0.png",
+		"images/tr-sheet0.png",
+		"images/sprite5-sheet0.png",
+		"images/arcade_gamerremovebgpreview-sheet0.png",
+		"images/prompt-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/theansweris-sheet0.png",
+		"images/sprite6-sheet0.png",
+		"images/the_answer_is_____1_removebgpreview-sheet0.png",
+		"images/prompt2-sheet0.png",
 		"media/idelghost1.ogg",
 		"media/dam.ogg",
 		"media/puzzel.ogg",
