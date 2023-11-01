@@ -3,7 +3,7 @@
 	"short_name": "Autorunner",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "android-launchericon-48-48",
 		"sizes": "16x16",
