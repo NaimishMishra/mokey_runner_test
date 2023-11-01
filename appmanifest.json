@@ -4,25 +4,30 @@
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
-	"icons": [{
-		"src": "android-launchericon-48-48",
-		"sizes": "16x16",
-		"type": "image/png"
-	}, {
-		"src": "android-launchericon-72-72",
-		"sizes": "32x32",
-		"type": "image/png"
-	}, {
-		"src": "android-launchericon-96-96",
-		"sizes": "128x128",
-		"type": "image/png"
-	}, {
-		"src": "android-launchericon-144-144",
-		"sizes": "144x144",
-		"type": "image/png"
-	}, {
-		"src": "android-launchericon-192-192",
-		"sizes": "256x256",
-		"type": "image/png"
-	}]
-}
+	"icons": [
+		{
+		  "src": "android/android-launchericon-512-512.png",
+		  "sizes": "512x512"
+		},
+		{
+		  "src": "android/android-launchericon-192-192.png",
+		  "sizes": "192x192"
+		},
+		{
+		  "src": "android/android-launchericon-144-144.png",
+		  "sizes": "144x144"
+		},
+		{
+		  "src": "android/android-launchericon-96-96.png",
+		  "sizes": "96x96"
+		},
+		{
+		  "src": "android/android-launchericon-72-72.png",
+		  "sizes": "72x72"
+		},
+		{
+		  "src": "android/android-launchericon-48-48.png",
+		  "sizes": "48x48"
+		}
+	  ]
+	}
