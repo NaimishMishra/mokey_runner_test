@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1699331356,
+	"version": 1701019354,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -49,6 +49,7 @@
 		"images/the_answer_is_____1_removebgpreview-sheet0.png",
 		"images/prompt2-sheet0.png",
 		"images/theansweris2-sheet0.png",
+		"images/theansweris3-sheet0.png",
 		"media/idelghost1.ogg",
 		"media/dam.ogg",
 		"media/puzzel.ogg",
